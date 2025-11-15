@@ -2,7 +2,9 @@
 # 🤡 Party Clown - Virtual Accessory Filter 🤡
 
 ## 📝 Project Description 
-Party Clown is a facial recognition system that adds virtual accessories to users in real time. The system utilizes facial landmark detection technology to track the user's face and head position, then applies graphical objects such as hats, glasses, and other party decorations that can be selected interactively. This project is designed to provide an engaging and entertaining visual experience with a simple interface and fast response. This application has the potential to be implemented as an entertainment feature on multimedia platforms, creative camera filters, and interactive social media content.
+Party Clown is a facial recognition system that adds virtual accessories to users in real time. The system utilizes facial landmark detection technology to track the user's face and head position, then applies graphical objects such as hats, glasses, and other party decorations that can be selected interactively. 
+The application also integrates a gesture-controlled selection mechanism. A hand-tracking module detects the user’s index-finger position and direction, then maps the pointing vector to on-screen accessory elements. When the system confirms a stable pointing gesture within a defined temporal threshold, it triggers the corresponding accessory selection. This enables touchless, direct interaction without reliance on physical UI inputs.
+This project is designed to provide an engaging and entertaining visual experience with a simple interface and fast response. This application has the potential to be implemented as an entertainment feature on multimedia platforms, creative camera filters, and interactive social media content.
 
 ## 👥Team Members 
 |Name|NIM|Github Profile|
